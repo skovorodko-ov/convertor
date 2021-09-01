@@ -1,0 +1,25 @@
+.container {
+  background: rgb(247, 193, 94);
+  padding: 50px 50px;
+}
+.inputs__container {
+  display: flex;
+  margin-top: 50px;
+}
+.input__group {
+  display: inline-block;
+  margin-right: 50px;
+}
+.input {
+  margin-bottom: 30px;
+  border-radius: 5px;
+  height: 30px;
+  border: none;
+}
+.label {
+  font-size: 16px;
+}
+.btn {
+  padding: 5px;
+  border-radius: 5px;
+}
